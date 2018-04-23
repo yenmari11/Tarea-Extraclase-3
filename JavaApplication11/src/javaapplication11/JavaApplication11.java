@@ -6,7 +6,6 @@
 package javaapplication11;
 
 /**
- *
  * @author yenma
  */
 public class JavaApplication11 {
@@ -18,8 +17,12 @@ public class JavaApplication11 {
         // TODO code application logic here
         System.out.println("hola chiquilines");
         System.out.println("holangas");
-        System.out.println(["olakease :V"])
+        System.out.println("olakease :V");
+        System.out.println("olakease :V");
+        System.out.println("olakease :V");
+        System.out.println("olakease :V");
+
 
     }
-    
+
 }
